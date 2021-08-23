@@ -5,12 +5,12 @@ Building a model to predict whether a customer would be interested in Vehicle In
 
 ## Steps Performed
 
-1.Downloading and Setting up PySpark in Colab
-2.Loading Data
-3.Short visualization on data
-4.Preparing dataset for training
-5.Building Machine Learning Models
-6.Validation for comparison of different models using AUC
+1. Downloading and Setting up PySpark in Colab
+2. Loading Data
+3. Short visualization on data
+4. Preparing dataset for training
+5. Building Machine Learning Models
+6. Validation for comparison of different models using AUC
 
 ## Models Used
 
